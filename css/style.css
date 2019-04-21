@@ -1,0 +1,49 @@
+body {
+
+	width:80%;
+	margin: 0 auto;
+}
+
+.ligne1 {
+
+	width: 80%;
+	height: 250px;
+	margin:0 auto;
+
+}
+.haut_gauche {
+	float:left;
+	top:0;
+	
+}
+.haut_droit {
+    float: right;
+    top:0;
+	
+}
+
+.ligne2 {
+
+	width: 80%;
+	height: 250px;
+	margin:0 auto;
+
+}
+
+.bottom_gauche {
+	float:left;
+	bottom:0;
+}
+
+.bottom_droit {
+	float: right;
+	bottom:0;
+}
+
+.divMiddle {
+
+	margin:0 auto;
+	width: 35%;
+	height: 500px;
+
+}
